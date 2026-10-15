@@ -1,9 +1,10 @@
-| sbom -> an exhaustive inventory of software that a software engineer might need
-|      -> tailored to my own needs and workflows
-|      -> if you want to adopt this, consider this a starting point only
+# sbom
 
--> contains a pointer of links to the www home of various software apps, tools,
-and utilities that i have come to discover, use, love, and enjoy
+A list of software I've tried over the years and found worth keeping: apps, tools and
+utilities that have earned a place in my day-to-day workflow.
 
-Thank you for visiting!
+It's mainly a reference for me, so I can rebuild a machine or remember what I used
+for what. It reflects my own needs and preferences, so if you're using it, treat it as a
+starting point rather than a recommendation.
 
+The list itself is in [SBOM.md](SBOM.md).
